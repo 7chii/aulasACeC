@@ -14,6 +14,8 @@ ACH (ex em casa!):
  -3 ex 3 (vetores em C-inserir dados do teclado o vetor e imprimir);
 
  -4 ex 5 (est homogeneas: matriz- inserir dados da matriz abaixo pelo teclado e imprimir);
- 
+ -5 ex 6 (est homogeneas: matriz- preencher uma matriz identidade 3x3 e depois imprimir);
+
+ -6 ex 1 (est heterogeneas: struct- exemplo 1);
 teste.cpp (primeiro arquivo em C q criei, para codigos da aula basica de prog(em C))
 atv01: fazer durante a semana todos os outros codigos. prox aula = ANALISE DE ALGORITMOS
