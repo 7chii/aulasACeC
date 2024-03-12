@@ -1,4 +1,5 @@
 #include <stdio.h>
+//vetores em C ex2
 
 int main(){
     int i;

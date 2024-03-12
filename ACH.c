@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//vetores em C ex 1
 int main(){
     int vetor[3];
     vetor[0]= 25;
