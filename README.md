@@ -9,7 +9,7 @@ AC01 (primeira aula q eu participei de Algoritmos e Complexidade!)
  -f(testando alocacao dinamica de ponteiro ex6)
 AC02 (seg aula participada de alg e complex !)
  -~ (analisando alg : ordenar de vetor)
- -a (alg de busca sequencial de num)
+ -a (alg de busca sequencial de num && quantas vezes apareceu)
 ACH (ex em casa!):
  -~ ex 1 (vetores em C-inserir elementos e imprimindo o vetor);
  -1 ex 2 (vetores em C-imprimir/percorrendo o vetor com estrutura de repeticao);
