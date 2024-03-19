@@ -27,5 +27,6 @@ ABC(scripts aula de c (SO Q EM CPP PQ O PROF USA CPP WHTVR.))
   -ABC3.cpp(ex 2 aula 4 media aritmetica 4 notas)
   -ABC4.cpp(ex 3 construa um alg que tendo dois pontos qualquer no plano P(x1, y1) e Q(x2, y2), imprima a dist entre eles)
   -ABC5.cpp(ex formatacao float percentual desconto INSS)
+  -ABC6.cpp(formatacao 2 (igual o 5 mas casa dec diferente))
 teste.cpp (primeiro arquivo em C q criei, para codigos da aula basica de prog(em C)) (script dos 3 circulos area hachurada)
 atv01: fazer durante a semana todos os outros codigos. prox aula = ANALISE DE ALGORITMOS
