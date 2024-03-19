@@ -23,5 +23,8 @@ ACH (ex em casa!):
 ABC(scripts aula de c (SO Q EM CPP PQ O PROF USA CPP WHTVR.))
   -ABC.cpp(exemplo em aula abono salarial por tempo na empresa/casa)
   -ABC1.cpp(exemplo em aula puzzle logico)
+  -ABC2.cpp((ex 1 aula 4(eu acho q 4))desenv um prog que receba a massa e o volume de uma amorstra qualquer e calc sua densidade)
+  -ABC3.cpp(ex 2 aula 4 media aritmetica 4 notas)
+  -ABC4.cpp(ex 3 construa um alg que tendo dois pontos qualquer no plano P(x1, y1) e Q(x2, y2), imprima a dist entre eles)
 teste.cpp (primeiro arquivo em C q criei, para codigos da aula basica de prog(em C)) (script dos 3 circulos area hachurada)
 atv01: fazer durante a semana todos os outros codigos. prox aula = ANALISE DE ALGORITMOS
