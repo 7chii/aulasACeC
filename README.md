@@ -22,6 +22,6 @@ ACH (ex em casa!):
  -6 ex 1 (est heterogeneas: struct- exemplo 1);
 ABC(scripts aula de c (SO Q EM CPP PQ O PROF USA CPP WHTVR.))
   -ABC.cpp(exemplo em aula abono salarial por tempo na empresa/casa)
-  -ABC1.cpp(exemplo em aula animais e andares ughhhhn)
+  -ABC1.cpp(exemplo em aula puzzle logico)
 teste.cpp (primeiro arquivo em C q criei, para codigos da aula basica de prog(em C)) (script dos 3 circulos area hachurada)
 atv01: fazer durante a semana todos os outros codigos. prox aula = ANALISE DE ALGORITMOS
