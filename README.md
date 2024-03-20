@@ -31,7 +31,8 @@ ABC(scripts aula de c (SO Q EM CPP PQ O PROF USA CPP WHTVR.))
 
   exerc 19/03 -> 
 teste.cpp (primeiro arquivo em C q criei, para codigos da aula basica de prog(em C)) (script dos 3 circulos area hachurada)
-atv01: fazer durante a semana todos os outros codigos. prox aula = ANALISE DE ALGORITMOS
+atv01AC: fazer durante a semana todos os outros codigos. prox aula = ANALISE DE ALGORITMOS
   -~:encontrar o maior e o menor elemento de um vetor qualquer (aquele que percorre todos os elem)
   -a:encontrar o maior e o menor elemento de um vetor qualquer (aquele que NAO necessariamente percorre todos os elem)
-  -b:busca binaria(fazer)
+  -b:busca binaria;
+  -->>"atv: 4me! estudar slides!!! e temas !!! grrrr
