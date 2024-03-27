@@ -16,11 +16,11 @@ int busca(int vet[], int inicio, int fim, int chave){
     }
 }
 int main(){
-    int vetor[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18};
+    int vetor[] = {12, 14, 17, 22, 56, 78, 99, 102, 110 , 112, 140, 145, 160 , 170 , 190, 199, 204, 240 , 255, 300};
     int ele;
     printf("insira elemento a buscar ! \n");
     scanf("%d", &ele);
     int ini = 1;
-    int fim = 18;
+    int fim = 20;
     busca(vetor, ini, fim, ele);
 }

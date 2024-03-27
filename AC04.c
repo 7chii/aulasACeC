@@ -47,5 +47,6 @@ int main(){
     printp(a);
 
     printf("\n\n func fatorial de num n! \n\n");
-    fatorial(n);
+    int f = fatorial(n);
+    printf("%d", f);
 }
