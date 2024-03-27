@@ -10,6 +10,10 @@ AC01 (primeira aula q eu participei de Algoritmos e Complexidade!)
 AC02 (seg aula participada de alg e complex !)
  -~ (analisando alg : ordenar de vetor)
  -a (alg de busca sequencial de num && quantas vezes apareceu)
+AC04 (quarta aula me thinks idk)
+ -~alg recursivo de impressao de 100 a 0 && 0 a 100;
+ -a (alg recursivo de busca binaria: lista 1 a 10)!;
+
 ACH (ex em casa!):
  -~ ex 1 (vetores em C-inserir elementos e imprimindo o vetor);
  -1 ex 2 (vetores em C-imprimir/percorrendo o vetor com estrutura de repeticao);
@@ -20,6 +24,7 @@ ACH (ex em casa!):
  -5 ex 6 (est homogeneas: matriz- preencher uma matriz identidade 3x3 e depois imprimir);
 
  -6 ex 1 (est heterogeneas: struct- exemplo 1);
+
 ABC(scripts aula de c (SO Q EM CPP PQ O PROF USA CPP WHTVR.))
   -ABC.cpp(exemplo em aula abono salarial por tempo na empresa/casa)
   -ABC1.cpp(exemplo em aula puzzle logico)
