@@ -1,5 +1,6 @@
 #include <iostream>
 #include <iomanip>
+//formatacao 2
 using namespace std;
 int main(){
     float HT, VH, PD, TD, SB, SL;

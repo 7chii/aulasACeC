@@ -7,7 +7,6 @@ int minrec(int[], int);
 int min(int, int);
 
 int main(){
-    //int arr[] = {44, 2, 1, 43, 34};
     int numvec;
     printf("insira num de ele no vetor: \n");
     scanf(" %d", &numvec);

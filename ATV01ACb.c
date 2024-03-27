@@ -1,7 +1,5 @@
 //alg busca binaria
 #include <stdio.h>
-
-
 int main(){
     int arr[10] = {20, 77, 298, 439, 502, 567, 589, 632, 699, 702};
     int proc;

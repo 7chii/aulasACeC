@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//formatacao 1
 int main(){
     float HT, VH, PD, TD, SB, SL;
     cout<<"entre com a quant. de horas trabalhadas: \n";cin>>HT;

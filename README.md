@@ -36,3 +36,4 @@ atv01AC: fazer durante a semana todos os outros codigos. prox aula = ANALISE DE 
   -a:encontrar o maior e o menor elemento de um vetor qualquer (aquele que NAO necessariamente percorre todos os elem)
   -b:busca binaria;
   -->>"atv: 4me! estudar slides!!! e temas !!! grrrr
+ate aula anterior a 27/03 -> algoritmos iterativos ; apos : alg recursivos ou de recursao!!
