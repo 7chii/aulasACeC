@@ -33,8 +33,12 @@ ABC(scripts aula de c (SO Q EM CPP PQ O PROF USA CPP WHTVR.))
   -ABC4.cpp(ex 3 construa um alg que tendo dois pontos qualquer no plano P(x1, y1) e Q(x2, y2), imprima a dist entre eles)
   -ABC5.cpp(ex formatacao float percentual desconto INSS)
   -ABC6.cpp(formatacao 2 (igual o 5 mas casa dec diferente))
-  -ABC7.cpp(aula 6 exemplo em sala salario abono)
-  
+  -ABC7.cpp(aula 6 exemplo em sala salario abono (if/else  e operador ternario))
+  -ABC8.cpp (aula6 programa especie e regiao switch cases)
+  -ABC9.cpp(dado um num qualquer determinar se ele eh neutro, pos, ou neg!)
+  -ABC10.cpp(serie numerica recriar)
+  -ABC11.ccp(codigo fibonacci)
+
 
   exerc 19/03 -> 
 teste.cpp (primeiro arquivo em C q criei, para codigos da aula basica de prog(em C)) (script dos 3 circulos area hachurada)
