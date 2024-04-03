@@ -13,7 +13,11 @@ AC02 (seg aula participada de alg e complex !)
 AC04 (quarta aula me thinks idk)
  -~alg recursivo de impressao de 100 a 0 && 0 a 100;
  -a (alg recursivo de busca binaria: lista 1 a 10)!;
-
+AC05(quinta aula feita(3 exemplos to tema 3 parte II))
+-a)Soma de numeros Recursivo(feito iterativo recursivo ugh) e  funcoes recursivas em sala(potencia)
+-b)Conversao de decimal para binario
+-c)Encontrar maior numero
+-d) contar pares em vetor de numeros
 ACH (ex em casa!):
  -~ ex 1 (vetores em C-inserir elementos e imprimindo o vetor);
  -1 ex 2 (vetores em C-imprimir/percorrendo o vetor com estrutura de repeticao);
