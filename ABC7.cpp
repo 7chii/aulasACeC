@@ -1,5 +1,5 @@
 #include <iostream>
-//aula 6 exemplo em sala salario abono
+//aula 6 exemplo em sala salario abono (if/else  e operador ternario)
 using namespace std;
 int main(void){
     float tempo, salario;
