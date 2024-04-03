@@ -15,9 +15,9 @@ AC04 (quarta aula me thinks idk)
  -a (alg recursivo de busca binaria: lista 1 a 10)!;
 AC05(quinta aula feita(3 exemplos to tema 3 parte II))
 -a)Soma de numeros Recursivo(feito iterativo recursivo ugh) e  funcoes recursivas em sala(potencia)
--b)Conversao de decimal para binario
--c)Encontrar maior numero
--d) contar pares em vetor de numeros
+-b)Conversao de decimal para binario(feito)
+-c)Encontrar maior numero (feito)
+-d) contar pares em vetor de numeros (feito)
 ACH (ex em casa!):
  -~ ex 1 (vetores em C-inserir elementos e imprimindo o vetor);
  -1 ex 2 (vetores em C-imprimir/percorrendo o vetor com estrutura de repeticao);
