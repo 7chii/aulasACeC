@@ -40,8 +40,8 @@ ABC(scripts aula de c (SO Q EM CPP PQ O PROF USA CPP WHTVR.))
   -ABC7.cpp(aula 6 exemplo em sala salario abono (if/else  e operador ternario))
   -ABC8.cpp (aula6 programa especie e regiao switch cases)
   -ABC9.cpp(dado um num qualquer determinar se ele eh neutro, pos, ou neg!)
-  -ABC10.cpp(serie numerica recriar)(fazer)
-  -ABC11.ccp(codigo fibonacci)(fazer)
+  -ABC10.cpp(serie numerica recriar)(feito)
+  -ABC11.ccp(codigo fibonacci)(feito)
 
 
   exerc 19/03 -> 
