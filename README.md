@@ -18,6 +18,10 @@ AC05(quinta aula feita(3 exemplos to tema 3 parte II))
 -b)Conversao de decimal para binario(feito)
 -c)Encontrar maior numero (feito)
 -d) contar pares em vetor de numeros (feito)
+AC06:
+ -a (dado N e uma sequencia com N numeros inteiros, imprimir a sequencia na ordem inversa a que foi lida)
+  -b (faca um alg iterativo e recursivo que calcule ate N a sequencia de fibonacci !)
+    -c (de ordem de complexidades no caderno (mostrar pra teach before mandar resposta))
 ACH (ex em casa!):
  -~ ex 1 (vetores em C-inserir elementos e imprimindo o vetor);
  -1 ex 2 (vetores em C-imprimir/percorrendo o vetor com estrutura de repeticao);
