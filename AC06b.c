@@ -50,7 +50,7 @@ int main()
     printf("recurs!\n");
     cas = cas - 1;
     cas2 = func(cas);
-    printf("numero %d aparece!\n", cas2);
+    printf("numero %d aparece!\n", cas2); 
     printf("iter!\n");
     funci(cas);
     printf("\n");

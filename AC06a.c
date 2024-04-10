@@ -9,7 +9,7 @@ void iter(int MAX, int v[]){
 void recurs(int MAX, int v[]){
     if(MAX>0){
         printf("ele. %d \n",v[MAX-1]);
-        recurs(MAX-1, v);
+        recurs(MAX-1, v); 
     }else{
     }
 }
