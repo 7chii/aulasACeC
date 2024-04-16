@@ -48,7 +48,8 @@ ABC(scripts aula de c (SO Q EM CPP PQ O PROF USA CPP WHTVR.))
   -ABC11.ccp(codigo fibonacci)(feito)
   -ABC12.cpp(ex 1 aula 16/4/24 -> fatorial de numero dado)
   -ABC13.cpp(ex 3 aula 16/4/24 -> se k > n-> imprima todos os numeros de k a n, se k = n -> fatorial de k, k < n-> informe usuario)
-
+  -ABC14.cpp(ex1 homework)
+  -ABC15.cpp(ex2 homework 16/4/24)
 
   exerc 19/03 -> 
 teste.cpp (primeiro arquivo em C q criei, para codigos da aula basica de prog(em C)) (script dos 3 circulos area hachurada)
