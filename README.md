@@ -46,6 +46,8 @@ ABC(scripts aula de c (SO Q EM CPP PQ O PROF USA CPP WHTVR.))
   -ABC9.cpp(dado um num qualquer determinar se ele eh neutro, pos, ou neg!)
   -ABC10.cpp(serie numerica recriar)(feito)
   -ABC11.ccp(codigo fibonacci)(feito)
+  -ABC12.cpp(ex 1 aula 16/4/24 -> fatorial de numero dado)
+  -ABC13.cpp(ex 3 aula 16/4/24 -> se k > n-> imprima todos os numeros de k a n, se k = n -> fatorial de k, k < n-> informe usuario)
 
 
   exerc 19/03 -> 
