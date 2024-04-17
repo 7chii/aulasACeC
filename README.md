@@ -22,6 +22,7 @@ AC06:
  -a (dado N e uma sequencia com N numeros inteiros, imprimir a sequencia na ordem inversa a que foi lida)
   -b (faca um alg iterativo e recursivo que calcule ate N a sequencia de fibonacci !)
     -c (de ordem de complexidades no caderno (mostrar pra teach before mandar resposta))
+AC07: exercicio 8 da lista 1 de exercicios de Anal. de ALG.
 ACH (ex em casa!):
  -~ ex 1 (vetores em C-inserir elementos e imprimindo o vetor);
  -1 ex 2 (vetores em C-imprimir/percorrendo o vetor com estrutura de repeticao);
