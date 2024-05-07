@@ -27,7 +27,21 @@ int main(){
     int med2 = ((soma(jog, ele))*(soma(jog, ele)))/ele;
     printf("media : %d\n", media);
     int variancia = ((soma2(jog, ele))-med2)/ele-1;
-    printf("vaciancia : %d\n", variancia);
+    printf("variancia : %d\n", variancia);
     int despad = sqrt(variancia);
     printf("desvio padrao : %d\n",despad);
+    for(int i=0;i<=4;i++){
+    for(int j=0;j<=4;j++){
+        if(jog[i]<jog[j]){
+            float seg = jog[i];
+            jog[i]=jog[j];
+            jog[j]=seg;
+        }
+    }
+   }
+   for(int i=0;i<=4;i++){
+    printf("pos[%d]: %d\n",i+1 , jog[i]);
+    //cout<<jog[i]<<endl;
+   }
+
 }
