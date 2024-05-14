@@ -1,17 +1,17 @@
 #include <stdio.h>
-
+//operacao mediana em vetor
 int main(){
-    int n;
-    printf("insira num de elementos no vetor:\n");
-    scanf(" %d",&n);
-    int vec[n];
+    int n = 100;
+    //printf("insira num de elementos no vetor:\n");
+    //scanf(" %d",&n);
+    float vec[n];
     for(int i=0;i<n;i++){
-        int val;
+        float val;
         printf("insira posicao[%d]: ",i);
-        scanf("%d",&val);
+        scanf("%f",&val);
         vec[i]=val;
     }
-    int val =0;
+    float val =0;
     if(n%2==0){
         val = (vec[((n-1)/2)]+vec[(n/2)])/2;
         printf("par\n");
@@ -19,6 +19,6 @@ int main(){
         val = vec[(n-1)/2];
         printf("impar\n");
     }
-    printf("valor: %d\n",val);
+    printf("valor: %f\n",val);
 
 }

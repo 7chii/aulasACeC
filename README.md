@@ -23,6 +23,7 @@ AC06:
   -b (faca um alg iterativo e recursivo que calcule ate N a sequencia de fibonacci !)
     -c (de ordem de complexidades no caderno (mostrar pra teach before mandar resposta))
 AC07: exercicio 8 da lista 1 de exercicios de Anal. de ALG.
+
 ACH (ex em casa!):
  -~ ex 1 (vetores em C-inserir elementos e imprimindo o vetor);
  -1 ex 2 (vetores em C-imprimir/percorrendo o vetor com estrutura de repeticao);
@@ -51,6 +52,9 @@ ABC(scripts aula de c (SO Q EM CPP PQ O PROF USA CPP WHTVR.))
   -ABC13.cpp(ex 3 aula 16/4/24 -> se k > n-> imprima todos os numeros de k a n, se k = n -> fatorial de k, k < n-> informe usuario)
   -ABC14.cpp(ex1 homework)
   -ABC15.cpp(ex2 homework 16/4/24)
+  -ABC16.cpp(ordem descendente)
+  -ABC17.cpp(operacao mediana em vetor)
+  -ABC18.cpp(sort + operacoes variancia etc)
 
   exerc 19/03 -> 
 teste.cpp (primeiro arquivo em C q criei, para codigos da aula basica de prog(em C)) (script dos 3 circulos area hachurada)
